@@ -1,6 +1,5 @@
-tflite-runtime==2.14.0
-streamlit
+streamlit==1.38.0
+onnxruntime
 Pillow
 numpy
-
 
